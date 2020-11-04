@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1602222387 source:/home/ign/CPPopencv/Facedetect.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<string>
+
+1602222655 source:/home/ign/CPPopencv/Grayscale.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<string>
+
+1602480989 source:/home/ign/CPPopencv/load.cpp
+	<opencv2/highgui.hpp>
+	<iostream>
+
+1602489887 source:/home/ign/CPPopencv/filters.cpp
+	<opencv2/highgui.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+
